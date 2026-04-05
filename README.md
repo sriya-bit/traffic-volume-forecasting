@@ -6,7 +6,7 @@ This project focuses on predicting urban traffic volume to assist in route optim
 ### 🛠️ Tech Stack
 - **Language:** Python
 - **Libraries:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
-- **Models Used:** Random Forest Regressor / XGBoost (whichever you used)
+- **Models Used:** Random Forest Regressor
 
 ### 📊 Key Features & Workflow
 1. **Data Preprocessing:** Handled missing values, encoded categorical variables, and performed feature scaling.
