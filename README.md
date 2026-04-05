@@ -22,3 +22,5 @@ This project focuses on predicting urban traffic volume to assist in route optim
 1. Clone the repo: `git clone https://github.com/sriya-bit/traffic-volume-forecasting.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run the notebook: `jupyter notebook Traffic_Forecasting.ipynb`
+## 📁 Documentation & Reports
+Detailed analysis and methodology reports can be found in the [reports](./reports) directory.
